@@ -1,0 +1,426 @@
+{
+  "id": 5327691,
+  "title": "Southern Air",
+  "upc": "790692075867",
+  "link": "https://www.deezer.com/album/5327691",
+  "share": "https://www.deezer.com/album/5327691?utm_source=deezer&utm_content=album-5327691&utm_term=0_1670940213&utm_medium=web",
+  "cover": "https://api.deezer.com/album/5327691/image",
+  "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+  "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+  "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+  "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+  "md5_image": "c765abbaea1d9a38be99361fed577604",
+  "genre_id": 85,
+  "genres": {
+    "data": [
+      {
+        "id": 85,
+        "name": "Alternative",
+        "picture": "https://api.deezer.com/genre/85/image",
+        "type": "genre"
+      },
+      {
+        "id": 86,
+        "name": "Indie Pop",
+        "picture": "https://api.deezer.com/genre/86/image",
+        "type": "genre"
+      },
+      {
+        "id": 132,
+        "name": "Pop",
+        "picture": "https://api.deezer.com/genre/132/image",
+        "type": "genre"
+      },
+      {
+        "id": 133,
+        "name": "Indie Pop/Folk",
+        "picture": "https://api.deezer.com/genre/133/image",
+        "type": "genre"
+      }
+    ]
+  },
+  "label": "Hopeless Records",
+  "nb_tracks": 10,
+  "duration": 2358,
+  "fans": 5846,
+  "release_date": "2012-08-14",
+  "record_type": "album",
+  "available": true,
+  "tracklist": "https://api.deezer.com/album/5327691/tracks",
+  "explicit_lyrics": false,
+  "explicit_content_lyrics": 0,
+  "explicit_content_cover": 2,
+  "contributors": [
+    {
+      "id": 1184,
+      "name": "Yellowcard",
+      "link": "https://www.deezer.com/artist/1184",
+      "share": "https://www.deezer.com/artist/1184?utm_source=deezer&utm_content=artist-1184&utm_term=0_1670940213&utm_medium=web",
+      "picture": "https://api.deezer.com/artist/1184/image",
+      "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/56x56-000000-80-0-0.jpg",
+      "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/1000x1000-000000-80-0-0.jpg",
+      "radio": true,
+      "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+      "type": "artist",
+      "role": "Main"
+    }
+  ],
+  "artist": {
+    "id": 1184,
+    "name": "Yellowcard",
+    "picture": "https://api.deezer.com/artist/1184/image",
+    "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/56x56-000000-80-0-0.jpg",
+    "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/250x250-000000-80-0-0.jpg",
+    "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/500x500-000000-80-0-0.jpg",
+    "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/f39ae915a61561be8eb391c1dc48f40f/1000x1000-000000-80-0-0.jpg",
+    "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+    "type": "artist"
+  },
+  "type": "album",
+  "tracks": {
+    "data": [
+      {
+        "id": 54751661,
+        "readable": true,
+        "title": "Awakening",
+        "title_short": "Awakening",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751661",
+        "duration": 263,
+        "rank": 336373,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-3.dzcdn.net/stream/c-32b4c8289df1a7fa19f9e8ae70d5c0c3-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751671,
+        "readable": true,
+        "title": "Surface Of The Sun",
+        "title_short": "Surface Of The Sun",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751671",
+        "duration": 223,
+        "rank": 149977,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-44fd5296df4f1a9fec523918670d7b88-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751681,
+        "readable": true,
+        "title": "Always Summer",
+        "title_short": "Always Summer",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751681",
+        "duration": 189,
+        "rank": 243933,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-defbb9311d9296c838854637e7424c26-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751691,
+        "readable": true,
+        "title": "Here I Am Alive",
+        "title_short": "Here I Am Alive",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751691",
+        "duration": 213,
+        "rank": 152001,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bff882f15c8f3f8b868756dfc4ae0248-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751701,
+        "readable": true,
+        "title": "Sleep In The Snow",
+        "title_short": "Sleep In The Snow",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751701",
+        "duration": 242,
+        "rank": 108552,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-4.dzcdn.net/stream/c-4defc5e2ebf00a372a6c060ee59153be-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751711,
+        "readable": true,
+        "title": "A Vicious Kind",
+        "title_short": "A Vicious Kind",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751711",
+        "duration": 235,
+        "rank": 121847,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-2.dzcdn.net/stream/c-209aeb6f52a3f3586cdf26317bbd00eb-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751721,
+        "readable": true,
+        "title": "Telescope",
+        "title_short": "Telescope",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751721",
+        "duration": 231,
+        "rank": 171171,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-eab8ae1bcb56a4a865dc6b2b0ad01eb9-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751731,
+        "readable": true,
+        "title": "Rivertown Blues",
+        "title_short": "Rivertown Blues",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751731",
+        "duration": 214,
+        "rank": 141877,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-a.dzcdn.net/stream/c-ae3e9a2b0c3d3a6f2e48e6a00685e5d9-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751741,
+        "readable": true,
+        "title": "Ten",
+        "title_short": "Ten",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751741",
+        "duration": 286,
+        "rank": 140159,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-e.dzcdn.net/stream/c-e16cb866157497b4a9198ed613cf18d3-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": 54751751,
+        "readable": true,
+        "title": "Southern Air",
+        "title_short": "Southern Air",
+        "title_version": "",
+        "link": "https://www.deezer.com/track/54751751",
+        "duration": 262,
+        "rank": 177733,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-b.dzcdn.net/stream/c-bc011e63944ce474b80b0621cfb879f3-4.mp3",
+        "md5_image": "c765abbaea1d9a38be99361fed577604",
+        "artist": {
+          "id": 1184,
+          "name": "Yellowcard",
+          "tracklist": "https://api.deezer.com/artist/1184/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 5327691,
+          "title": "Southern Air",
+          "cover": "https://api.deezer.com/album/5327691/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/c765abbaea1d9a38be99361fed577604/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "c765abbaea1d9a38be99361fed577604",
+          "tracklist": "https://api.deezer.com/album/5327691/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      }
+    ]
+  }
+}

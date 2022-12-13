@@ -1,1 +1,122 @@
-/*# sourceMappingURL=style.css.map */
+#album-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#ultimo {
+  padding-bottom: 120px;
+}
+
+#barra-sticky {
+  background-color: #b7458a;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+
+#container-madre {
+  background-color: rgba(22, 22, 22, 0.995);
+}
+
+#boxHeader {
+  background-color: #b7458a;
+  box-shadow: #b7458a 15px 40px 110px 60px;
+  text-shadow: 1px 2px black;
+}
+
+#imgAlbum {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.card2 {
+  width: 12rem;
+}
+
+#brani ul {
+  padding: 0;
+  list-style-type: none;
+}
+#brani ul li {
+  margin-right: 1rem;
+}
+#brani ul #play {
+  border: 0;
+  border-radius: 50%;
+  background-color: #a0e025;
+  transform: scale(1.4);
+}
+#brani ul #follow {
+  border: 0;
+  background-color: transparent;
+  font-weight: bold;
+}
+#brani ul #add {
+  background-color: transparent;
+  border: 0;
+}
+
+#verificato {
+  color: #42a5f5;
+}
+
+section h2 {
+  font-size: 6em;
+}
+
+#sidebar {
+  position: -webkit-sticky;
+  position: fixed;
+  left: 0;
+}
+
+#scroll {
+  height: 500px;
+  margin-bottom: 150px;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  height: 100px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(74, 74, 74);
+}
+
+::-webkit-scrollbar-track {
+  background-color: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(74, 74, 74);
+}
+
+article .card {
+  background-color: #2c2c2c;
+}
+
+footer {
+  background-color: #2c2c2c;
+}
+footer .card {
+  background-color: #2c2c2c;
+  border: none;
+}
+
+#volume {
+  display: inline-block;
+  width: 80px;
+  height: 10px;
+}
+
+#ultimo {
+  padding-bottom: 150px;
+}
+
+#sidebar-color {
+  background-color: black;
+  z-index: 2;
+}
+
+#container-homepage {
+  padding-left: 0;
+  padding-right: 0;
+}/*# sourceMappingURL=style.css.map */
