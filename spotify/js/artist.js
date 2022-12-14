@@ -3,6 +3,8 @@ async function loadJSON(url) {
     return await res.json();
 }
 
-loadJSON('./json/album-json.JSON').then(data => {
-
-})
+window.onload = async () => {
+    let url = new URLSearchParams(window.location.search)
+    let id = url.get("artistId");
+    console.log(id)
+}

@@ -248,8 +248,8 @@
               </div>
               <div class="col-8">
                 <div class="card-body text-start">
-                  <h5 class="text-light pt-2">Card title</h5>
-                  <span><small class="text-muted">Last updated 3</small><i
+                  <h5 class="text-light pt-2 nome-traccia">nome traccia</h5>
+                  <span><small class="text-muted nome-artista">nome artista</small><i
                       class="bi bi-heart ps-3 text-light"></i></span>
                 </div>
               </div>
@@ -258,9 +258,11 @@
           <div class="col-6">
             <div class="text-light pb-3">
               <i class="bi bi-shuffle fs-4"></i>
-              <i class="bi bi-caret-left-fill fs-4"></i>
-              <i class="bi bi-play-circle-fill fs-3"></i>
-              <i class="bi bi-caret-right-fill fs-4"></i>
+              <i class="bi bi-caret-left-fill fs-4 traccia-prec"></i>
+              <span class="playpause">
+                <i class="bi bi-play-circle-fill fs-3  "></i>
+              </span>
+              <i class="bi bi-caret-right-fill fs-4 traccia-succ"></i>
               <i class="bi bi-repeat fs-4"></i>
             </div>
             <div class="progress">
@@ -312,7 +314,8 @@
   <!--<i class="bi bi-house-door-fill"></i> home-->
   <!--<i class="bi bi-search"></i> cerca-->
   <!--<i class="bi bi-collection"></i> libreria**-->
-  <script src="../js/index.js"></script>
+  <script type="module" src="../js/index.js"></script>
+  <script src="../js/music.js"></script>
   <script src="../js/album.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
