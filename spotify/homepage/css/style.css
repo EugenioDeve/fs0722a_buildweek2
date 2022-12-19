@@ -3,13 +3,23 @@
   padding-right: 0;
 }
 
+#containerAlbum {
+  padding-bottom: 4rem;
+}
+
 #ultimo {
   padding-bottom: 120px;
 }
 
 #barra-sticky {
-  background-color: #b7458a;
   box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+#barra-sticky #titolo-album-nav {
+  opacity: 0;
+}
+
+.invisibile {
+  opacity: 0;
 }
 
 #container-madre {
@@ -17,8 +27,7 @@
 }
 
 #boxHeader {
-  background-color: #b7458a;
-  box-shadow: #b7458a 15px 40px 110px 60px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
   text-shadow: 1px 2px black;
 }
 
@@ -30,25 +39,47 @@
   width: 12rem;
 }
 
-#brani ul {
+#tabella-body tr {
+  transition: ease 0.3s;
+}
+#tabella-body tr:hover {
+  cursor: pointer;
+  box-shadow: 79vw 0 0 rgb(36, 35, 35) inset;
+}
+
+.buttons .bi-heart:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+#containerAltriAlbum a:last-child {
+  padding-bottom: 160px;
+}
+
+#brani ol {
   padding: 0;
   list-style-type: none;
 }
-#brani ul li {
+#brani ol li {
+  transition: ease 0.6s;
   margin-right: 1rem;
 }
-#brani ul #play {
+#brani ol li:hover {
+  cursor: pointer;
+  box-shadow: 90vw 0 0 rgb(36, 35, 35) inset;
+}
+#brani ol #play {
   border: 0;
   border-radius: 50%;
   background-color: #a0e025;
   transform: scale(1.4);
 }
-#brani ul #follow {
+#brani ol #follow {
   border: 0;
   background-color: transparent;
   font-weight: bold;
 }
-#brani ul #add {
+#brani ol #add {
   background-color: transparent;
   border: 0;
 }
@@ -58,13 +89,44 @@
 }
 
 section h2 {
-  font-size: 6em;
+  font-size: 4rem;
+}
+
+#sfondo {
+  text-shadow: 1px 1px black;
+  background-repeat: no-repeat;
+  background-position-y: 40%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 10px black;
+}
+
+#container-mamma {
+  background-color: rgba(22, 22, 22, 0.995);
 }
 
 #sidebar {
   position: -webkit-sticky;
   position: fixed;
-  left: 0;
+  bottom: 0;
+  padding-bottom: 20px;
+  background-color: black;
+}
+
+#sidebar2 {
+  position: fixed;
+  right: 0;
+}
+
+.linea {
+  line-height: 20%;
+}
+
+#menu {
+  text-align: center;
+}
+#menu i {
+  display: block;
 }
 
 #scroll {
@@ -92,9 +154,22 @@ section h2 {
 article .card {
   background-color: #2c2c2c;
 }
+article .card-body {
+  padding: 0.2rem;
+}
+article .card-body p {
+  margin-bottom: 0;
+}
 
 footer {
   background-color: #2c2c2c;
+  max-width: 100%;
+  position: fixed;
+  bottom: 93px;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  max-height: 100px;
 }
 footer .card {
   background-color: #2c2c2c;
@@ -108,7 +183,15 @@ footer .card {
 }
 
 #ultimo {
-  padding-bottom: 130px;
+  padding-bottom: 80px;
+}
+
+#ultimo2 {
+  margin-bottom: 160px;
+}
+
+.padding-testo {
+  height: 80px;
 }
 
 #sidebar-color {
@@ -116,7 +199,85 @@ footer .card {
   z-index: 2;
 }
 
+.nero {
+  background-color: black;
+}
+
 #container-homepage {
   padding-left: 0;
   padding-right: 0;
+}
+
+#container-mamma {
+  padding-left: 0.1rem;
+}
+
+.bottoni-navigazione {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-shadow: 0 1px 2.3px rgb(209, 202, 203);
+}
+
+#artisti a:last-child {
+  display: none;
+}
+
+.listaId {
+  visibility: hidden;
+}
+
+#sidebar {
+  height: 100px;
+}
+
+@media screen and (min-width: 768px) {
+  #sidebar {
+    position: -webkit-sticky;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #artisti a:last-child {
+    display: block;
+  }
+  .nome-traccia {
+    font-size: 1.2rem;
+  }
+  #menu {
+    text-align: start;
+  }
+  #menu i {
+    display: inline;
+  }
+  footer {
+    bottom: 0;
+  }
+  .listaId {
+    visibility: visible;
+  }
+}
+#artisti {
+  padding-bottom: 3rem;
+}
+
+.progress {
+  width: 800px;
+  height: 10px;
+  background: grey;
+}
+
+.elapsed {
+  left: 0;
+  height: 100%;
+  background: red;
+  transition: width 30ms linear;
+}
+
+button {
+  background-color: transparent;
+}
+
+.nome-traccia {
+  font-size: 0.8rem;
 }/*# sourceMappingURL=style.css.map */

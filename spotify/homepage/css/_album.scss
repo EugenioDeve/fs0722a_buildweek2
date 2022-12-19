@@ -2,36 +2,63 @@
   padding-left: 0;
   padding-right: 0;
 }
-
-#ultimo{
-    padding-bottom: 120px;
-  }
-
-#barra-sticky {
-    background-color: #b7458a;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
-   
-    
-    
-    
-}  
-
-#container-madre{
-    background-color: rgba(22, 22, 22, 0.995);
+#containerAlbum {
+  padding-bottom: 4rem;
 }
 
-  #boxHeader {
-    
-    background-color: #b7458a;
-    box-shadow: #b7458a 15px 40px 110px 60px;
-    text-shadow: 1px 2px black;
-  }
+#ultimo {
+  padding-bottom: 120px;
+}
 
-
-  #imgAlbum {
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+#barra-sticky {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+  #titolo-album-nav {
+    opacity: 0;
   }
+}
 
-  .card2{
-    width: 12rem;
+.invisibile {
+  opacity: 0;
+}
+
+#container-madre {
+  background-color: rgba(22, 22, 22, 0.995);
+}
+
+#boxHeader {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+  text-shadow: 1px 2px black;
+}
+
+#imgAlbum {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.card2 {
+  width: 12rem;
+}
+
+#tabella-body {
+  tr {
+    transition: ease 0.3s;
+    &:hover {
+      cursor: pointer;
+      box-shadow: 79vw 0 0 rgb(36, 35, 35) inset;
+    }
   }
+}
+
+.buttons {
+  .bi-heart {
+    &:hover {
+      cursor: pointer;
+      transform: scale(1.1);
+    }
+  }
+}
+
+#containerAltriAlbum {
+  a:last-child {
+    padding-bottom: 160px;
+  }
+}
